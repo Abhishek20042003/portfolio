@@ -74,11 +74,11 @@ function initSkills() {
             title: 'Frontend Development',
             description: 'Creating responsive and interactive user interfaces with modern frameworks and libraries.'
         },
-        {
-            icon: 'server',
-            title: 'Backend Development',
-            description: 'Building robust server-side applications and APIs with scalable architecture.'
-        },
+        // {
+        //     icon: 'server',
+        //     title: 'Backend Development',
+        //     description: 'Building robust server-side applications and APIs with scalable architecture.'
+        // },
         {
             icon: 'database',
             title: 'Database Design',
@@ -89,11 +89,11 @@ function initSkills() {
             title: 'Cloud Services',
             description: 'Deploying and managing applications on cloud platforms with DevOps practices.'
         },
-        {
-            icon: 'smartphone',
-            title: 'Mobile Development',
-            description: 'Creating cross-platform mobile applications with native performance.'
-        },
+        // {
+        //     icon: 'smartphone',
+        //     title: 'Mobile Development',
+        //     description: 'Creating cross-platform mobile applications with native performance.'
+        // },
         {
             icon: 'palette',
             title: 'UI/UX Design',
