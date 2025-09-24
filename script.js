@@ -79,11 +79,11 @@ function initSkills() {
         //     title: 'Backend Development',
         //     description: 'Building robust server-side applications and APIs with scalable architecture.'
         // },
-        {
-            icon: 'database',
-            title: 'Database Design',
-            description: 'Designing efficient database schemas and optimizing query performance.'
-        },
+        // {
+        //     icon: 'database',
+        //     title: 'Database Design',
+        //     description: 'Designing efficient database schemas and optimizing query performance.'
+        // },
         {
             icon: 'cloud',
             title: 'Cloud Services',
