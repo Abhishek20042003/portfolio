@@ -49,7 +49,7 @@ function initParticleBackground() {
 
 // Typewriter Effect
 function initTypewriter() {
-    const text = 'Full-Stack Developer';
+    const text = 'Front-End Developer';
     const typewriterElement = document.getElementById('typewriter-text');
     const cursor = document.getElementById('cursor');
     
